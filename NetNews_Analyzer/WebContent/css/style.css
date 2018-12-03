@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+body{
+	background-color:#000000;
+}
+td{
+ 	color:#FF1493;
+}
+a{
+	font-family: "Open Sans", sans-serif;
+	color: #ffffff;
+	font-weight: bold;
+	line-height: 1.2em;
+	transition:width 2s;
+	-moz-transition:width 2s; /* Firefox 4 */
+	-webkit-transition:width 2s; /* Safari and Chrome */
+	-o-transition:width 2s; /* Opera */
+}
